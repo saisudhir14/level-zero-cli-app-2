@@ -1,5 +1,5 @@
 # level-zero-cli-app-2
-Please click on the link below to play the game or to know more about me. 
+Please click on the link below to play the game.
 
 This is a cli-app.
 
