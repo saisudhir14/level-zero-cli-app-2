@@ -84,4 +84,4 @@ console.log("Requesting you to please share me your results or a screenshot, I w
 console.log('\n');
 console.log('thanks a lot for your time and considering playing this game. Hope you know me now! Have a nice day ahead!');
 console.log('---------------------------------');
-console.log('Jai neogcamp! :)')
+
